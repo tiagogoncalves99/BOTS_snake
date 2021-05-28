@@ -8,6 +8,9 @@ Oguz Kokes - 20201006 <br>
 Tiago Gonçalves - 20201053 <br>
 
 #### Files: <br>
+
+*Report* PDF
+
 *snake_crossover.py* - crossover operators
 
 *snake_mutation.py* - mutation operators
