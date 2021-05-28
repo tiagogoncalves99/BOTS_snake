@@ -17,4 +17,4 @@ CIFO 2020/21 Project - Group: BOTS
 
 *fitness2* folder - Folder with fitness logs (not every csv is included, just a sample)
 
-#VIDEO OF OUR BEST MODEL: https://liveeduisegiunl-my.sharepoint.com/:f:/g/personal/m20201053_novaims_unl_pt/Eq6c1LOiuq9JlPVfqBzMF4ABXiBeghvE0vNy1Y4A5vkz1A?e=ccFUd9
+Video of our best model playing 5 games: https://liveeduisegiunl-my.sharepoint.com/:f:/g/personal/m20201053_novaims_unl_pt/Eq6c1LOiuq9JlPVfqBzMF4ABXiBeghvE0vNy1Y4A5vkz1A?e=ccFUd9
