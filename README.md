@@ -27,4 +27,6 @@ Tiago Gonçalves - 20201053 <br>
 
 *fitness2* folder - Folder with fitness logs (not every csv is included, just a sample)
 
+*result_analysis.ipynb* - Notebook used to analyse the results obtained
+
 #### Video of our best model playing 5 games: https://liveeduisegiunl-my.sharepoint.com/:v:/g/personal/m20201053_novaims_unl_pt/EfTwQbXnC25Fj8TAMqsfPuMB5r1i_M9kYqhEC8Jh940UCA?e=JCCq8a
