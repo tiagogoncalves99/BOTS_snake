@@ -182,7 +182,7 @@ def play_game(snake_start, snake_position, apple_position, button_direction, sco
                                                                button_direction, score)
         pygame.display.set_caption("S: " + str(score))
         pygame.display.update()
-        clock.tick(100000)
+        clock.tick(10000000)
 
         return snake_position, apple_position, score
 

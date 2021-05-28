@@ -163,7 +163,7 @@ def run_game_with_ML2(display, clock, my_model):
     #print(score1 + score2 + max_score * 5000 - score3 * 500)
     return score1 + score2 + max_score * 5000 - score3 * 1000, max_score
 
-def run_game_with_ML3(display, clock, my_model):
+def run_game_with_ML3(display, clock, my_model): # not used
     
     max_score = 0
     avg_score = 0
