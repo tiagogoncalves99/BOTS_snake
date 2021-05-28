@@ -1,12 +1,13 @@
 # BOTS_snake
-# CIFO 2020/21 Project - Group: BOTS
+### CIFO 2020/21 Project - Group: BOTS
 
-# Group Members
-Berfin Sakallioglu - 20200545
-Mehmet Serdar Çetiner - 20201016
-Oguz Kokes - 20201006
-Tiago Gonçalves - 20201053
+#### Group Members
+Berfin Sakallioglu - 20200545 <br>
+Mehmet Serdar Çetiner - 20201016 <br>
+Oguz Kokes - 20201006 <br>
+Tiago Gonçalves - 20201053 <br>
 
+#### Files: <br>
 *snake_crossover.py* - crossover operators
 
 *snake_mutation.py* - mutation operators
@@ -23,4 +24,4 @@ Tiago Gonçalves - 20201053
 
 *fitness2* folder - Folder with fitness logs (not every csv is included, just a sample)
 
-# Video of our best model playing 5 games: https://liveeduisegiunl-my.sharepoint.com/:v:/g/personal/m20201053_novaims_unl_pt/EfTwQbXnC25Fj8TAMqsfPuMB5r1i_M9kYqhEC8Jh940UCA?e=JCCq8a
+#### Video of our best model playing 5 games: https://liveeduisegiunl-my.sharepoint.com/:v:/g/personal/m20201053_novaims_unl_pt/EfTwQbXnC25Fj8TAMqsfPuMB5r1i_M9kYqhEC8Jh940UCA?e=JCCq8a
