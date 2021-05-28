@@ -16,3 +16,5 @@ CIFO 2020/21 Project - Group: BOTS
 *RunGame_BestNN.ipynb* - Extra file - Running the game with our best model, either for statistical analysis of performance or for visualization purposes
 
 *fitness2* folder - Folder with fitness logs (not every csv is included, just a sample)
+
+#VIDEO OF OUR BEST MODEL: https://liveeduisegiunl-my.sharepoint.com/:f:/g/personal/m20201053_novaims_unl_pt/Eq6c1LOiuq9JlPVfqBzMF4ABXiBeghvE0vNy1Y4A5vkz1A?e=ccFUd9
